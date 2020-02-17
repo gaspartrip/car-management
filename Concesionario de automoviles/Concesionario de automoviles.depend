@@ -1,0 +1,439 @@
+# depslib dependency file v1.0
+1541556194 source:c:\users\tripodi\desktop\tp integrador laboratorio 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menuSesionUsuario.h"
+
+1541556194 c:\users\tripodi\desktop\tp integrador laboratorio 2\menusesionusuario.h
+	<stdio.h>
+	<stdlib.h>
+	"menuGestion.h"
+
+1541622881 source:c:\users\tripodi\desktop\tp integrador laboratorio 2\menusesionusuario.c
+	<windows.h>
+	"conio.h"
+	"menuSesionUsuario.h"
+	"menuGestionAdmin.h"
+
+1369787912 source:c:\users\tripodi\desktop\tp integrador laboratorio 2\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<windows.h>
+	<string.h>
+	<stdarg.h>
+	"conio.h"
+
+1093905120 c:\users\tripodi\desktop\tp integrador laboratorio 2\conio.h
+	<stdio.h>
+
+1541543142 source:c:\users\tripodi\desktop\tp integrador laboratorio 2\menugestion.c
+	"conio.h"
+	"menuGestion.h"
+
+1541104982 c:\users\tripodi\desktop\tp integrador laboratorio 2\menugestion.h
+	<stdio.h>
+	<stdlib.h>
+	"menuProductosClientesVentas.h"
+
+1541612594 c:\users\tripodi\desktop\tp integrador laboratorio 2\menuproductosclientesventas.h
+	<stdio.h>
+	<stdlib.h>
+
+1541622539 source:c:\users\tripodi\desktop\tp integrador laboratorio 2\menuproductosclientesventas.c
+	"conio.h"
+	<time.h>
+	"menuProductosClientesVentas.h"
+
+1369787910 source:d:\tsp\programación ii -- laboratorio de computación ii\tp integrador laboratorio 2\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<windows.h>
+	<string.h>
+	<stdarg.h>
+	"conio.h"
+
+1093905120 d:\tsp\programación ii -- laboratorio de computación ii\tp integrador laboratorio 2\conio.h
+	<stdio.h>
+
+1540084306 source:d:\tsp\programación ii -- laboratorio de computación ii\tp integrador laboratorio 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menuSesionUsuario.h"
+
+1540084299 d:\tsp\programación ii -- laboratorio de computación ii\tp integrador laboratorio 2\menusesionusuario.h
+	<stdio.h>
+	<stdlib.h>
+	"menuGestion.h"
+
+1539995583 d:\tsp\programación ii -- laboratorio de computación ii\tp integrador laboratorio 2\menugestion.h
+	<stdio.h>
+	<stdlib.h>
+	"menuProductosClientesVentas.h"
+
+1540237765 d:\tsp\programación ii -- laboratorio de computación ii\tp integrador laboratorio 2\menuproductosclientesventas.h
+	<stdio.h>
+	<stdlib.h>
+
+1540261662 source:d:\tsp\programación ii -- laboratorio de computación ii\tp integrador laboratorio 2\menusesionusuario.c
+	<windows.h>
+	"conio.h"
+	"menuSesionUsuario.h"
+
+1540238362 source:d:\tsp\programación ii -- laboratorio de computación ii\tp integrador laboratorio 2\menugestion.c
+	<windows.h>
+	"conio.h"
+	"menuGestion.h"
+
+1540238393 source:d:\tsp\programación ii -- laboratorio de computación ii\tp integrador laboratorio 2\menuproductosclientesventas.c
+	<windows.h>
+	"conio.h"
+	"menuProductosClientesVentas.h"
+
+1369787912 source:f:\tp integrador laboratorio 2\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<windows.h>
+	<string.h>
+	<stdarg.h>
+	"conio.h"
+
+1093905120 f:\tp integrador laboratorio 2\conio.h
+	<stdio.h>
+
+1541556194 source:f:\tp integrador laboratorio 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menuSesionUsuario.h"
+
+1541556194 f:\tp integrador laboratorio 2\menusesionusuario.h
+	<stdio.h>
+	<stdlib.h>
+	"menuGestion.h"
+
+1541104982 f:\tp integrador laboratorio 2\menugestion.h
+	<stdio.h>
+	<stdlib.h>
+	"menuProductosClientesVentas.h"
+
+1541639008 f:\tp integrador laboratorio 2\menuproductosclientesventas.h
+	<stdio.h>
+	<stdlib.h>
+
+1541543142 source:f:\tp integrador laboratorio 2\menugestion.c
+	"conio.h"
+	"menuGestion.h"
+
+1541639444 source:f:\tp integrador laboratorio 2\menuproductosclientesventas.c
+	"conio.h"
+	<time.h>
+	"menuProductosClientesVentas.h"
+
+1541622882 source:f:\tp integrador laboratorio 2\menusesionusuario.c
+	<windows.h>
+	"conio.h"
+	"menuSesionUsuario.h"
+	"menuGestionAdmin.h"
+
+1369787912 source:g:\tp integrador laboratorio 2\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<windows.h>
+	<string.h>
+	<stdarg.h>
+	"conio.h"
+
+1093905120 g:\tp integrador laboratorio 2\conio.h
+	<stdio.h>
+
+1541556194 source:g:\tp integrador laboratorio 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menuSesionUsuario.h"
+
+1541556194 g:\tp integrador laboratorio 2\menusesionusuario.h
+	<stdio.h>
+	<stdlib.h>
+	"menuGestion.h"
+
+1541104982 g:\tp integrador laboratorio 2\menugestion.h
+	<stdio.h>
+	<stdlib.h>
+	"menuProductosClientesVentas.h"
+
+1541595636 g:\tp integrador laboratorio 2\menuproductosclientesventas.h
+	<stdio.h>
+	<stdlib.h>
+
+1541543142 source:g:\tp integrador laboratorio 2\menugestion.c
+	"conio.h"
+	"menuGestion.h"
+
+1541596626 source:g:\tp integrador laboratorio 2\menusesionusuario.c
+	<windows.h>
+	"conio.h"
+	"menuSesionUsuario.h"
+	"menuGestionAdmin.h"
+
+1541596334 source:g:\tp integrador laboratorio 2\menuproductosclientesventas.c
+	"conio.h"
+	<time.h>
+	"menuProductosClientesVentas.h"
+
+1541619296 c:\users\tripodi\desktop\tp integrador laboratorio 2\menugestionadmin.h
+	<stdio.h>
+	<stdlib.h>
+	"menuProductosClientesVentas.h"
+
+1541622079 source:c:\users\tripodi\desktop\tp integrador laboratorio 2\menugestionadmin.c
+	"conio.h"
+	<time.h>
+	"menuGestionAdmin.h"
+
+1541622080 source:f:\tp integrador laboratorio 2\menugestionadmin.c
+	"conio.h"
+	<time.h>
+	"menuGestionAdmin.h"
+
+1541619298 f:\tp integrador laboratorio 2\menugestionadmin.h
+	<stdio.h>
+	<stdlib.h>
+	"menuProductosClientesVentas.h"
+
+1369787912 source:c:\users\alumno\desktop\tp integrador laboratorio 2\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<windows.h>
+	<string.h>
+	<stdarg.h>
+	"conio.h"
+
+1093905120 c:\users\alumno\desktop\tp integrador laboratorio 2\conio.h
+	<stdio.h>
+
+1541556194 source:c:\users\alumno\desktop\tp integrador laboratorio 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menuSesionUsuario.h"
+
+1541556194 c:\users\alumno\desktop\tp integrador laboratorio 2\menusesionusuario.h
+	<stdio.h>
+	<stdlib.h>
+	"menuGestion.h"
+
+1541104982 c:\users\alumno\desktop\tp integrador laboratorio 2\menugestion.h
+	<stdio.h>
+	<stdlib.h>
+	"menuProductosClientesVentas.h"
+
+1541595636 c:\users\alumno\desktop\tp integrador laboratorio 2\menuproductosclientesventas.h
+	<stdio.h>
+	<stdlib.h>
+
+1541543142 source:c:\users\alumno\desktop\tp integrador laboratorio 2\menugestion.c
+	"conio.h"
+	"menuGestion.h"
+
+1541596334 source:c:\users\alumno\desktop\tp integrador laboratorio 2\menuproductosclientesventas.c
+	"conio.h"
+	<time.h>
+	"menuProductosClientesVentas.h"
+
+1541596626 source:c:\users\alumno\desktop\tp integrador laboratorio 2\menusesionusuario.c
+	<windows.h>
+	"conio.h"
+	"menuSesionUsuario.h"
+	"menuGestionAdmin.h"
+
+1541594518 c:\users\alumno\desktop\tp integrador laboratorio 2\menugestionadmin.h
+	<stdio.h>
+	<stdlib.h>
+	"menuProductosClientesVentas.h"
+
+1541596422 source:c:\users\alumno\desktop\tp integrador laboratorio 2\menugestionadmin.c
+	"conio.h"
+	<time.h>
+	"menuGestionAdmin.h"
+
+1541596422 source:g:\tp integrador laboratorio 2\menugestionadmin.c
+	"conio.h"
+	<time.h>
+	"menuGestionAdmin.h"
+
+1541594518 g:\tp integrador laboratorio 2\menugestionadmin.h
+	<stdio.h>
+	<stdlib.h>
+	"menuProductosClientesVentas.h"
+
+1369787912 source:c:\users\hp\downloads\tp integrador laboratorio 2\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<windows.h>
+	<string.h>
+	<stdarg.h>
+	"conio.h"
+
+1093905120 c:\users\hp\downloads\tp integrador laboratorio 2\conio.h
+	<stdio.h>
+
+1541556194 source:c:\users\hp\downloads\tp integrador laboratorio 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menuSesionUsuario.h"
+
+1541556194 c:\users\hp\downloads\tp integrador laboratorio 2\menusesionusuario.h
+	<stdio.h>
+	<stdlib.h>
+	"menuGestion.h"
+
+1541104982 c:\users\hp\downloads\tp integrador laboratorio 2\menugestion.h
+	<stdio.h>
+	<stdlib.h>
+	"menuProductosClientesVentas.h"
+
+1541639008 c:\users\hp\downloads\tp integrador laboratorio 2\menuproductosclientesventas.h
+	<stdio.h>
+	<stdlib.h>
+
+1570487411 source:c:\users\hp\downloads\tp integrador laboratorio 2\menugestion.c
+	"conio.h"
+	"menuGestion.h"
+
+1570487411 source:c:\users\hp\downloads\tp integrador laboratorio 2\menugestionadmin.c
+	"conio.h"
+	<time.h>
+	"menuGestionAdmin.h"
+
+1541619298 c:\users\hp\downloads\tp integrador laboratorio 2\menugestionadmin.h
+	<stdio.h>
+	<stdlib.h>
+	"menuProductosClientesVentas.h"
+
+1570487847 source:c:\users\hp\downloads\tp integrador laboratorio 2\menuproductosclientesventas.c
+	"conio.h"
+	<time.h>
+	"menuProductosClientesVentas.h"
+
+1570487915 source:c:\users\hp\downloads\tp integrador laboratorio 2\menusesionusuario.c
+	<windows.h>
+	"conio.h"
+	"menuSesionUsuario.h"
+	"menuGestionAdmin.h"
+
+1570490207 source:c:\users\hp\downloads\concesionario de automoviles\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<windows.h>
+	<string.h>
+	<stdarg.h>
+	"conio.h"
+
+1570490207 c:\users\hp\downloads\concesionario de automoviles\conio.h
+	<stdio.h>
+
+1570490207 source:c:\users\hp\downloads\concesionario de automoviles\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menuSesionUsuario.h"
+
+1570490207 c:\users\hp\downloads\concesionario de automoviles\menusesionusuario.h
+	<stdio.h>
+	<stdlib.h>
+	"menuGestion.h"
+
+1570490207 c:\users\hp\downloads\concesionario de automoviles\menugestion.h
+	<stdio.h>
+	<stdlib.h>
+	"menuProductosClientesVentas.h"
+
+1570490207 c:\users\hp\downloads\concesionario de automoviles\menuproductosclientesventas.h
+	<stdio.h>
+	<stdlib.h>
+
+1570490207 source:c:\users\hp\downloads\concesionario de automoviles\menugestion.c
+	"conio.h"
+	"menuGestion.h"
+
+1570490207 source:c:\users\hp\downloads\concesionario de automoviles\menugestionadmin.c
+	"conio.h"
+	<time.h>
+	"menuGestionAdmin.h"
+
+1570490207 c:\users\hp\downloads\concesionario de automoviles\menugestionadmin.h
+	<stdio.h>
+	<stdlib.h>
+	"menuProductosClientesVentas.h"
+
+1570490207 source:c:\users\hp\downloads\concesionario de automoviles\menuproductosclientesventas.c
+	"conio.h"
+	<time.h>
+	"menuProductosClientesVentas.h"
+
+1570490207 source:c:\users\hp\downloads\concesionario de automoviles\menusesionusuario.c
+	<windows.h>
+	"conio.h"
+	"menuSesionUsuario.h"
+	"menuGestionAdmin.h"
+
+1570490207 source:c:\users\hp\downloads\concesionario-de-automoviles-master\concesionario de automoviles\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<windows.h>
+	<string.h>
+	<stdarg.h>
+	"conio.h"
+
+1570490207 c:\users\hp\downloads\concesionario-de-automoviles-master\concesionario de automoviles\conio.h
+	<stdio.h>
+
+1570490207 source:c:\users\hp\downloads\concesionario-de-automoviles-master\concesionario de automoviles\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menuSesionUsuario.h"
+
+1570490207 c:\users\hp\downloads\concesionario-de-automoviles-master\concesionario de automoviles\menusesionusuario.h
+	<stdio.h>
+	<stdlib.h>
+	"menuGestion.h"
+
+1570490207 c:\users\hp\downloads\concesionario-de-automoviles-master\concesionario de automoviles\menugestion.h
+	<stdio.h>
+	<stdlib.h>
+	"menuProductosClientesVentas.h"
+
+1570490207 c:\users\hp\downloads\concesionario-de-automoviles-master\concesionario de automoviles\menuproductosclientesventas.h
+	<stdio.h>
+	<stdlib.h>
+
+1570490207 source:c:\users\hp\downloads\concesionario-de-automoviles-master\concesionario de automoviles\menugestion.c
+	"conio.h"
+	"menuGestion.h"
+
+1570490207 source:c:\users\hp\downloads\concesionario-de-automoviles-master\concesionario de automoviles\menugestionadmin.c
+	"conio.h"
+	<time.h>
+	"menuGestionAdmin.h"
+
+1570490207 c:\users\hp\downloads\concesionario-de-automoviles-master\concesionario de automoviles\menugestionadmin.h
+	<stdio.h>
+	<stdlib.h>
+	"menuProductosClientesVentas.h"
+
+1570490207 source:c:\users\hp\downloads\concesionario-de-automoviles-master\concesionario de automoviles\menuproductosclientesventas.c
+	"conio.h"
+	<time.h>
+	"menuProductosClientesVentas.h"
+
+1570490207 source:c:\users\hp\downloads\concesionario-de-automoviles-master\concesionario de automoviles\menusesionusuario.c
+	<windows.h>
+	"conio.h"
+	"menuSesionUsuario.h"
+	"menuGestionAdmin.h"
+
